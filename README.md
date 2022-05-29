@@ -6,4 +6,4 @@ Interplay between C++ affine JSON solving everyday tasks.
 
 Experimental.
 
-**Note**: The default branch is default.
+**Note**: The default branch is `default`.
